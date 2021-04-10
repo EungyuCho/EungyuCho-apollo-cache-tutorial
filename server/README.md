@@ -3,6 +3,7 @@
 ## Setup
 
 - please install postgres
+- please setting .env file (example in example.env)
 ```bash
 # install dependecies - package manager (yarn)
 yarn
